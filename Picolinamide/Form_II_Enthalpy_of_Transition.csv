@@ -5,3 +5,4 @@ Identifier,Property,Value (kJ/mol),Std,N,Name,Reference,Comment
 3,Enthalpy of transition,0.73,0.06,7,Evora,https://doi.org/10.1039/C2CE26244D,DSC 10 K min-1
 4,Enthalpy of transition,0.90,0.03,4,Vojtěch,This Work,DSC
 5,Enthalpy of transition,1.01,0.03,6,Minas de Piedade, This work, Solution Calorimetry at 298.15 K
+6,Enthalpy of transition,0.71,0.03,2,Marta Dudek,This work,FII to FI- DSC 10 K min-1
