@@ -27,5 +27,5 @@ Identifier,Property,Value (kJ/mol),Std,N,Name,Reference,Comment
 24,Enthalpy of transition at 380,0.738,1,,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
 25,Enthalpy of transition at 385,0.716,1,,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
 26,Enthalpy of transition at 390,0.693,1,,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
-Enthalpy of transition at 395,0.669,1,,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
-Enthalpy of transition at 400,0.646,1,,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
+27,Enthalpy of transition at 395,0.669,1,,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
+28,Enthalpy of transition at 400,0.646,1,,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
