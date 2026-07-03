@@ -1,4 +1,4 @@
-﻿Identifier,Property,>Temperature (K),Value (Angstrom),Std,N,Name,Reference,Comment
+﻿Identifier,Property,Temperature (K),Value (Angstrom),Std,N,Name,Reference,Comment
 1,Lattice param b @150K,150,7.0249,0.0005,,,http://dx.doi.org/10.1039/c2ce26244d,
 2,Lattice param b @295K,295,7.110,0.02,,,http://dx.doi.org/10.1107/S0365110X66003396,
 3,Lattice param b @293K,293,7.085,0.004,,,http://dx.doi.org/10.1039/c2ce26244d,
