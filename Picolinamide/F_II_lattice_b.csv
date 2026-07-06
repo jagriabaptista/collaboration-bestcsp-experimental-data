@@ -1,7 +1,7 @@
-﻿Identifier,Property,Temperature (K),Value (Angstrom),Std,N,Name,Reference,Comment
-1,Lattice param b @150K,150,7.0249,0.0005,,,http://dx.doi.org/10.1039/c2ce26244d,
-2,Lattice param b @295K,295,7.110,0.02,,,http://dx.doi.org/10.1107/S0365110X66003396,
-3,Lattice param b @293K,293,7.085,0.004,,,http://dx.doi.org/10.1039/c2ce26244d,
-4,Lattice param b @296K,296,7.1004,0.001,,,http://dx.doi.org/10.4236/csta.2012.13006,
-5,Lattice param b @150K,150,	7.0284,	0.0004,	1,	Tinnemans,	This work,
-6,Lattice param b @296K,296, 	7.0974,	0.0002,	1,	Baptista,	This work,
+﻿Identifier,Property,Value (Angstrom),Std,N,Name,Reference,Comment
+1,Lattice param b @150K,7.0249,0.0005,,,http://dx.doi.org/10.1039/c2ce26244d,
+2,Lattice param b @295K,7.110,0.02,,,http://dx.doi.org/10.1107/S0365110X66003396,
+3,Lattice param b @293K,7.085,0.004,,,http://dx.doi.org/10.1039/c2ce26244d,
+4,Lattice param b @296K,7.1004,0.001,,,http://dx.doi.org/10.4236/csta.2012.13006,
+5,Lattice param b @150K,	7.0284,	0.0004,	1,	Tinnemans,	This work,
+6,Lattice param b @296K, 	7.0974,	0.0002,	1,	Baptista,	This work,
