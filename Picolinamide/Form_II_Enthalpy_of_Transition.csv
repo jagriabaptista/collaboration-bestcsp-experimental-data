@@ -31,4 +31,4 @@ Identifier,Property,Value (kJ/mol),Std,N,Name,Reference,Comment
 28,Enthalpy of transition at 400,0.646,,1,Minas da Piedade,This work,Calculated from Enthalpy determined at 298.15 and heat capacity
 29,Enthalpy of transition,1.03,0.02,5,Doris,This work,FII to FI- DSC 2 K min-1
 30,Enthalpy of transition,0.98,0.04,5,Doris,This work,FII to FI- DSC 5 K min-1
-31,Enthalpy of transition,0.96,0.04,5,Doris,This work,FII to FI- DSC 10 K min-1
+31,Enthalpy of transition,0.96,0.04,3,Doris,This work,FII to FI- DSC 10 K min-1
